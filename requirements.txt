@@ -1,0 +1,6 @@
+langchain
+groq
+python-dotenv
+langchain_groq
+langchain-groq
+grandalf
